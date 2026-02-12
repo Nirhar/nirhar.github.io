@@ -3,5 +3,6 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0"
-gem "my-theme", path: "../my-theme"
+gem "jekyll-remote-theme", "~> 0.4.3"
+gem "openssl", "~> 4.0.0"
 
