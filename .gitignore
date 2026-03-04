@@ -6,3 +6,4 @@ _site
 Gemfile.lock
 .ruby-lsp
 .DS_Store
+.zed/

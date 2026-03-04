@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "My First post"
+title: "Writing a Lexer/Parser using C++ CRTP"
+published: false
 ---
 
-Welcome to my post!
+One of the cons of Object Oriented Programming is the overhead that it imposes during dispatch of virtual calls. Virtual calls, ie call destinations that can only be determined by 
 
 
 
