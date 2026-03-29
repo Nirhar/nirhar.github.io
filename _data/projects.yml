@@ -1,7 +1,7 @@
-- title: "Visualize Geometry Algorithms with Rust"
-  url: "to-be-filled"
-  summary: |
-    I have been learning rust for the last few months, and I've always wanted to learn about geometry algorithms.
-    This is an ongoing project that implements some algorithms from *Computational Geometry - Algorithms and Applications, Berg et al*
-    in rust and gives a visual demo of the algorithms using rust libraries like egui and eplotter.
-  date: "16th November 2025"
+# - title: "Visualize Geometry Algorithms with Rust"
+#   url: "to-be-filled"
+#   summary: |
+#     I have been learning rust for the last few months, and I've always wanted to learn about geometry algorithms.
+#     This is an ongoing project that implements some algorithms from *Computational Geometry - Algorithms and Applications, Berg et al*
+#     in rust and gives a visual demo of the algorithms using rust libraries like egui and eplotter.
+#   date: "16th November 2025"

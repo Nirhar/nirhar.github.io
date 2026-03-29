@@ -1,5 +1,7 @@
 remote_theme: Nirhar/azure-mist@main
-title: Manish Kausik H
+title: Nirhar's Blog
 footer_message: © Manish Kausik H
+blog_message: I try to share stuff that I learn about, either as articles or as short notes. 
+projects_message: Cooking... 🍳
 plugins:
   - jekyll-remote-theme
